@@ -59,23 +59,6 @@ GenerateClassCluster=0
 DocumentUniqueId=VTKAWYHV
 
 [Document2]
-DocumentPath=PCB1.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BTQIFNCI
-
-[Document3]
 DocumentPath=RaspPI.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -91,6 +74,35 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OJLUWUBD
+
+[Document3]
+DocumentPath=PCB.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TCRWBRIX
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for MCP25xx Canbus\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for MCP25xx Canbus\Design Rule Check - PCB2.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for MCP25xx Canbus\Design Rule Check - PCB.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
